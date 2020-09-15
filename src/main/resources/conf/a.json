@@ -1,0 +1,12 @@
+{
+  "customize": {
+    "property": {
+      "message": "hello world one"
+    }
+  },
+  "logging": {
+    "level": {
+      "root": "ERROR"
+    }
+  }
+}
